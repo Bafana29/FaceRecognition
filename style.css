@@ -1,0 +1,18 @@
+body{
+    background-color: darksalmon;
+}
+.heading{
+    font-size: 22px;
+    height: 35px;
+}
+.nameOfObjects, #Object_output, #Accuracy{
+    color:greenyellow;
+}
+#camera{
+    border:5px groove yellow;
+    width:350px;
+    height:350px;
+}
+b{
+    font-size: large;
+}
